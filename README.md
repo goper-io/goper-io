@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+My name is Gonzalo, Software Engineer based in Berlin, Germany
 
 <!--
 **goper-io/goper-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
